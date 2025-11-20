@@ -1,8 +1,8 @@
-📊 Data Visualization with Matplotlib & Seaborn
+## 📊 Data Visualization with Matplotlib & Seaborn
 
 This project demonstrates effective data visualization techniques using Matplotlib and Seaborn. The goal is to convert raw data into clear, meaningful, and insightful visual representations.
 
-🎯 Project Highlights
+## 🎯 Project Highlights
 
 Created multiple visualization types to analyze data patterns
 
@@ -12,7 +12,7 @@ Used Matplotlib for detailed control over figure layout and customization
 
 Showcased distribution, comparison, trend, and relationship-based graphs
 
-📈 Visualizations Covered
+## 📈 Visualizations Covered
 
 Line Plot – Trend analysis
 
@@ -28,7 +28,7 @@ Pie Chart – Proportion visualization
 
 Heatmap (Seaborn) – Correlation insights
 
-🛠️ Technologies & Libraries
+## 🛠️ Technologies & Libraries
 
 Matplotlib – Core plotting library for Python
 
@@ -38,7 +38,7 @@ Pandas – Data manipulation
 
 NumPy – Numerical operations
 
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 
 Install dependencies:
 
@@ -52,7 +52,7 @@ python visualization.py
 
 Or open the Jupyter Notebook version.
 
-📂 Purpose
+## 📂 Purpose
 
 This project is ideal for:
 
@@ -62,7 +62,7 @@ Understanding how different charts represent different types of information
 
 Improving data analysis and storytelling skills
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Afaque Azam
 Data Analysis & Python Enthusiast
